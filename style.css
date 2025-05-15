@@ -1,0 +1,40 @@
+.Logo{
+    height: 200px;
+ 
+}
+body{
+    background-color: rgb(241,234,226,255);
+    color: rgba(53, 31, 17, 0.719);
+    display: grid;
+    place-items: center;
+}
+.grande {
+  font-size: 24px;
+  word-spacing:3px;
+}
+.grande1 {
+  font-size: 24px;
+  word-spacing: 3px;
+}
+.late{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+ 
+}
+.capu{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.capuca{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.milk{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
