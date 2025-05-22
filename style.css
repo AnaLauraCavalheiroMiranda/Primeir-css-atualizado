@@ -5,7 +5,7 @@
 body{
     background-color: rgb(241,234,226,255);
     color: rgba(53, 31, 17, 0.719);
-    display: grid;
+    display: flexbox;
     place-items: center;
 }
 .grande {
@@ -37,4 +37,47 @@ body{
     height: 200px;
     margin: 0 auto 30px auto;
     border-radius: 10px;
+}
+.tata{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.moraazul{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.mora{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.moras{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.macha2{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.limonada{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.macha{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.verde{
+    height: 200px;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.Fo{
+    background-color: aliceblue;
 }
